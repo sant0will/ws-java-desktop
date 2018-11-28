@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/beans/User.java=UTF-8
+encoding//src/db/DB.java=UTF-8
+encoding//src/db/DBService.java=UTF-8
+encoding//src/db/DBServiceLocator.java=UTF-8
+encoding//src/db/DBSoapBindingStub.java=UTF-8
